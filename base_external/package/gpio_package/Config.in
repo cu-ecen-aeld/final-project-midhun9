@@ -1,0 +1,6 @@
+
+config BR2_PACKAGE_GPIO_PACKAGE
+	bool "gpio_package"
+	help
+	  Includes the code for gpio write, gpio read, executables and files in the kernel image.
+	  Used to understand buildroot external trees and package builds.
