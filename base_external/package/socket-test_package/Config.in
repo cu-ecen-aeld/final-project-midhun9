@@ -1,0 +1,6 @@
+
+config BR2_PACKAGE_SOCKET_TEST_PACKAGE
+	bool "socket_test_package"
+	help
+	  Includes the code for simple socket test in the kernel image.
+	  Used to understand buildroot external trees and package builds.

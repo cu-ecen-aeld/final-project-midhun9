@@ -1,0 +1,6 @@
+
+config BR2_PACKAGE_LCD_PACKAGE
+	bool "lcd_package"
+	help
+	  Includes the code for nokia 5110 lcd executables and files in the kernel image.
+	  Used to understand buildroot external trees and package builds.
