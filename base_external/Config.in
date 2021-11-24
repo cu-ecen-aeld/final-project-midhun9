@@ -1,3 +1,5 @@
 source "$BR2_EXTERNAL_project_base_PATH/package/gpio_package/Config.in"
 source "$BR2_EXTERNAL_project_base_PATH/package/socket-test_package/Config.in"
 source "$BR2_EXTERNAL_project_base_PATH/package/lcd_package/Config.in"
+source "$BR2_EXTERNAL_project_base_PATH/package/lcd16x2_package/Config.in"
+source "$BR2_EXTERNAL_project_base_PATH/package/client_package/Config.in"
