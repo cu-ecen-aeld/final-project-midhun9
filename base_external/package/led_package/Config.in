@@ -1,0 +1,6 @@
+
+config BR2_PACKAGE_LED_PACKAGE
+	bool "led_package"
+	help
+	  Includes the test code for libgpiod led executables and files in the kernel image.
+	  Used to understand buildroot external trees and package builds.
